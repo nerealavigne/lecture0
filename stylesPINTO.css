@@ -38,7 +38,7 @@ p {
     text-align: center;
     background-color: rgb(239, 205, 250);
     width: 800px;
-    height: 500px;
+    height: 450px;
 }
 
 img{
@@ -47,5 +47,5 @@ img{
 
 ul {
     text-align: center;
-    padding: 5px;
+    padding: 20px;
 }
