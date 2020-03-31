@@ -20,7 +20,7 @@ h3 {
 
 p {
     color:rgb(0, 0, 0);
-    text-align:center
+    left: 100;
 }
 
 #INTRODUCTION {
@@ -43,8 +43,4 @@ p {
 
 img{
     border: 2px solid rgb(110, 104, 148)
-}
-
-ul {
-    left: 100px;
 }
