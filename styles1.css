@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif, Arial;
-    margin: 50px
+    margin: 50px;
 }
 
 h1 {
@@ -17,7 +17,16 @@ h1 {
     height: 400px;
 }
 
+img{
+    border: 2px solid crimson
+}
+
+ol {
+    text-align: justify;
+}
+
 #cpinfo {
+    margin-left: 413px;
     padding: 5px;
     border: 3px dotted crimson;
     text-align: center;
@@ -29,7 +38,9 @@ h1 {
 table{
     border: 2px solid black;
     border-collapse: collapse;
-    margin: 50px
+    margin: 50px;
+    background-color: white;
+    height: 200px
 }
 
 th, td{
@@ -39,4 +50,26 @@ th, td{
 
 th {
     background-color:crimson;
+}
+
+#photoshoot{
+    margin-left: 826px;
+    padding: 5px;
+    border: 3px dotted crimson;
+    text-align: center;
+    background-color: salmon;
+    width: 400px;
+    height: 550px;
+}
+
+#yourname{
+    margin-left: 826px;
+    padding: 5px;
+    border: 3px dotted crimson;
+    text-align: center;
+    background-color: salmon;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50px
 }
