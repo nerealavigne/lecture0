@@ -84,3 +84,11 @@ th {
     width: 400px;
     height: 400px; 
 }
+
+button {
+    background-color: rgb(255, 255, 255);
+}
+
+button:hover {
+    background-color: rgb(204, 47, 86);
+}
