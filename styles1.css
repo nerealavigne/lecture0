@@ -73,3 +73,14 @@ th {
     position: absolute;
     top: 50px
 }
+
+#links{
+    position: absolute;
+    top: 879px;
+    padding: 5px;
+    border: 3px dotted crimson;
+    text-align: center;
+    background-color: salmon;
+    width: 400px;
+    height: 400px; 
+}
